@@ -1,0 +1,9 @@
+C:\Users\Paulina\Source\Repos\Scientific_Calculator\Scientific_Calculator\bin\Debug\Scientific_Calculator.exe.config
+C:\Users\Paulina\Source\Repos\Scientific_Calculator\Scientific_Calculator\bin\Debug\Scientific_Calculator.exe
+C:\Users\Paulina\Source\Repos\Scientific_Calculator\Scientific_Calculator\bin\Debug\Scientific_Calculator.pdb
+C:\Users\Paulina\Source\Repos\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Paulina\Source\Repos\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.Form1.resources
+C:\Users\Paulina\Source\Repos\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.Properties.Resources.resources
+C:\Users\Paulina\Source\Repos\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.csproj.GenerateResource.Cache
+C:\Users\Paulina\Source\Repos\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.exe
+C:\Users\Paulina\Source\Repos\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.pdb
